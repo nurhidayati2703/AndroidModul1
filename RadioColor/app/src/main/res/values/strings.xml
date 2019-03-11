@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RadioColor</string>
+    <string name="btnexit">Exit</string>
+    <string name="txtwarna">Warna yang dipilih</string>
+
+    <color name="backBlue">#0000FF</color>
+    <color name="backRed">#FF0000</color>
+    <color name="backGreen">#00ff00</color>
+    <color name="backWhite">#ffffFF</color>
+    <color name="backDark">#000000</color>
+    <color name="backPink">#ff4081</color>
+    <color name="backCayon">#2fffFF</color>
+    <color name="backYellow">#ffff81</color>
+
+</resources>
